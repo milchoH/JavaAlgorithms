@@ -1,1 +1,1 @@
-# JavaAlgorithms
+# Some simple Java Algorithms
